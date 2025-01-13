@@ -2,7 +2,7 @@
 # Fake Store API CRUD Application
 
 This project demonstrates a basic CRUD (Create, Read, Update, Delete) web application using JavaScript and the [Mock API](https://6784cca11ec630ca33a5b6f4.mockapi.io/user). The app fetches, displays, and manages products dynamically.
-## to live URL click here [fake-store]().
+## to live URL click here [fake-store](https://alaasa3di.github.io/fakestoreapi/).
 
 
 
