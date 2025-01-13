@@ -24,9 +24,4 @@ This project demonstrates a basic CRUD (Create, Read, Update, Delete) web applic
 - **JavaScript**: Application logic and API integration.
 - **Mock API**: Backend service for CRUD operations.
 
-## Getting Started
-
-### Prerequisites
-
-To run this project, you need a modern web browser and a local or live server.
 
